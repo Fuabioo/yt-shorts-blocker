@@ -21,5 +21,8 @@
 go.work
 go.work.sum
 
+wasm_exec.js
+main.wasm
+
 # env file
 .env
